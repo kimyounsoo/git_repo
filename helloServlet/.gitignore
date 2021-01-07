@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+build/
+WebContent/META-INF/MAINFEST.MF
+WibContent/WEB-INF/lib
+WebContent/META-INF/web.xml
